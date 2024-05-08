@@ -1,0 +1,6 @@
+@GaboMisc.Templates.WebApi.MinimalApi_HostAddress = http://localhost:5165
+
+GET {{GaboMisc.Templates.WebApi.MinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
